@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1428235389 source:d:\codeblox\all files\big test2play around - copy\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"Schedule.h"
+
+1428235114 d:\codeblox\all files\big test2play around - copy\include\schedule.h
+
+1428235115 source:d:\codeblox\all files\big test2play around - copy\src\schedule.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"Schedule.h"
+
+1428235389 source:d:\codeblox\all files\n9178341_swimming_schedule\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"Schedule.h"
+
+1428235114 d:\codeblox\all files\n9178341_swimming_schedule\include\schedule.h
+
+1428239597 source:d:\codeblox\all files\n9178341_swimming_schedule\src\schedule.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"Schedule.h"
+
