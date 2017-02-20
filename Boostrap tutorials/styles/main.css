@@ -1,0 +1,51 @@
+.darkBG {
+	background: #999;
+}
+
+.darkerBG {
+	background: #666;
+}
+
+.darkestBG {
+	background: #333;
+}
+
+.myPanel {
+	margin: 3%;
+	border: 1px solid #687D6D;
+	border-radius: 5px;
+	box-shadow: 0px 0px 4px #ccc;
+}
+
+.myPanel .heading {
+	background: #D99A9B;
+	border-radius: 5px 5px 0 0;
+	-webkit-border-radius: 5px;
+	color: red;
+	padding: 10px 20px;
+}
+
+.myPanel .body {
+	padding: 10px 20px;
+}
+
+.myPanel .showOnHover {
+	display: none;
+}
+
+.myPanel:hover {
+	box-shadow: 0px 0px 8px black;
+	border: 2px solid #687D6D;
+}
+.myPanel:hover .showOnHover {
+	display: inline-block;
+}
+
+p#main {
+	color: green;
+}
+
+p.primary {
+	color: red;
+	font-size: 400%;
+}
